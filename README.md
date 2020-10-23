@@ -2,5 +2,5 @@
 
 + This repository will cover ggplot, dataframes, statistics *(in part, there is a dedicated repository for that*), any tips that you may need and in the future cheat sheets. 
 
-`DataWrangling_inR.ipynb`:
+`DataWrangling_inR.ipynb`: time formatting,change layout of dataframe, pivot tables, dplyr (select,filter,arrange,summarize,mutate), nest, chop and spread
 
