@@ -5,3 +5,5 @@
 `DataWrangling_inR.ipynb`: time formatting,change layout of dataframe, pivot tables, dplyr (select,filter,arrange,summarize,mutate), nest, chop and spread
 
 `GGplot_Basics.ipynb`: just like the name implies, showing some common skills to learn and what may go wrong.
+
+`R_Intro.ipynb`: basic introduction and tasks for your first time with R.
